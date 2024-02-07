@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vsahisek
 - 👀 I’m interested in GNU/Linux and Open-Source software
-- 🌱 I’m currently learning C#. JavaScript
+- 🌱 I’m currently learning C#, JavaScript
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me - vsahisekk@gmail.com
 
